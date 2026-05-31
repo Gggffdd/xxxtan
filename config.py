@@ -12,13 +12,13 @@ PAYMENT_PROVIDER_TOKEN = ""  # Оставь пустым для Telegram Stars
 
 # 🖥️ 3x-ui VPN Панель (https://github.com/MHSanaei/3x-ui)
 # Установи 3x-ui на свой VPS и укажи данные:
-XRAY_PANEL_URL    = "http://YOUR_VPS_IP:54321"   # URL панели 3x-ui
-XRAY_PANEL_USER   = "admin"                       # Логин панели
-XRAY_PANEL_PASS   = "admin"                       # Пароль панели
+XRAY_PANEL_URL    = "http://94.141.122.164:2053/yKwNyOmDg466tQnGJ2/panel"   # URL панели 3x-ui
+XRAY_PANEL_USER   = "9RXHhynqsk"                       # Логин панели
+XRAY_PANEL_PASS   = "uRKafPf65t"                       # Пароль панели
 XRAY_INBOUND_ID   = 1                             # ID inbound (смотри в панели)
 
 # 🌐 Твой VPS (для показа пользователям)
-VPS_HOST = "YOUR_VPS_IP"   # IP или домен твоего сервера
+VPS_HOST = "94.141.122.164"   # IP или домен твоего сервера
 
 # 📦 База данных
 DATABASE_PATH = "vpn_bot.db"
